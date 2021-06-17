@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">H-Gear</string>
+    ------Home--------
+    <string name="HGear">H-Gear</string>
+    <string name="WhatAreYouLookingFor">Bạn tìm gì...</string>
+    <string name="home">Trang chủ</string>
+    <string name="specialOffers">Ưu đãi</string>
+    <string name="location">Vị trí</string>
+    <string name="person">Tôi</string>
+    -------Fragment Main-------
+    <string name="PCList">MÁY TÍNH NỔI BẬT NHẤT</string>
+    <string name="LaptopList">LAPTOP NỔI BẬT NHẤT</string>
+    <string name="phuKienList">PHỤ KIỆN CHÍNH HÃNG</string>
+    <string name="PCGaming">PC Gaming</string>
+    <string name="Laptop">Laptop</string>
+    <string name="PCOffice">PC Văn Phòng</string>
+    <string name="GamingGear">Gaming Gear</string>
+    -------Fragment Discount------
+    <string name="chiTiet">Chi tiết</string>
+    -------Fragment List-------
+    <string name="laptopList">Danh sách laptop</string>
+    <string name="pclist">Danh sách PC</string>
+    -------Fragment Login-----------
+    <string name="Username">Tên tài khoản</string>
+    <string name="Password">Mật khẩu</string>
+    <string name="Login">Đăng nhập</string>
+    <string name="LoginWithGmail">Đăng nhập với</string>
+    <string name="noAccount">Bạn chưa có tài khoản ?</string>
+    <string name="register">Đăng kí</string>
+    <string name="nameOfCustomer">Tên người dùng</string>
+    <string name="phoneOfCustomer">Số điện thoại</string>
+    <string name="confirmPassword">Nhập lại mật khẩu</string>
+    --------Fragment Personal------------
+    <string name="infor">Thông tin khách hàng</string>
+    <string name="purchase_history">Lịch sử mua hàng</string>
+    <string name="changePassword">Đổi mật khẩu</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="date">Ngày mua: </string>
+    ---------Detail Fragment-------------
+    <string name="tinhTrang">Tình trạng: </string>
+    <string name="conHang">Còn hàng</string>
+    <string name="baoHanh">Bảo hành và dịch vụ:</string>
+    <string name="thongTinBaoHanh1">♦ Bảo hành chính hãng 12 tháng tại các TTBH trên toàn quốc.</string>
+    <string name="thongTinBaoHanh2">♦ Vệ sinh laptop miễn phí trong thời gian bảo hành.</string>
+    <string name="thongTinBaoHanh3">♦ Đổi mới trong 7 ngày nếu bị lỗi kĩ thuật.</string>
+    <string name="thongTinBaoHanh4">♦ Chính sách đảm bảo hài lòng.</string>
+    <string name="thongTinBaoHanh5">♦ Linh kiện nâng cấp bảo hành theo tiêu chuẩn nhà sản xuất.</string>
+    <string name="thongTinBaoHanh6">♦ Hỗ trợ cài đặt hệ điều hành và phần mềm.</string>
+    ----
+    <string name="inforDetail">Thông tin bổ sung</string>
+    <string name="CPU">CPU: </string>
+    <string name="OS">Hệ điều hành: </string>
+    <string name="RAM">RAM: </string>
+    <string name="GPU">GPU: </string>
+    <string name="Monitor">Màn hình: </string>
+    <string name="SSD">Ổ cứng SSD: </string>
+    <string name="Lan">Lan: </string>
+    <string name="WirelessLan">Wireless Lan: </string>
+    <string name="Connectors">Các cổng kết nối: </string>
+    <string name="Keyboard">Bàn phím: </string>
+    <string name="Weight">Cân nặng: </string>
+    ---------Fragment Cart-------------
+    <string name="gia">Giá: </string>
+    <string name="thanhTien">Thành tiền: </string>
+    <string name="amount">Số lượng: </string>
+
+</resources>
